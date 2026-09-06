@@ -47,10 +47,7 @@ This loads the study area boundary and saves a map to
 
 The boundary shipped in `data/akure_north_boundary_approx.geojson` is a
 simplified bounding box, included only so the pipeline runs without
-external downloads. It is **not** the authoritative LGA boundary. For real
-analysis, download the datasets listed in `PROJECT_BRIEF.md` (GRID3 health
-facilities, LGA/ward boundaries, settlement extents, and the OpenStreetMap
-road network) and replace the placeholder file.
+external downloads. 
 
 ## Data Licensing
 
